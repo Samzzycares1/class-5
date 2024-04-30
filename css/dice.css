@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.dicegame{
+    color: white;
+    background-color: green;
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+.box1{
+    
+    margin-left: 50px;
+    margin-top: 60px;
+    font-size: 50px;
+   margin-right: 10px;
+}
+.sec1{
+    background-color: brown;
+    margin-left: 100px;
+    width: 300px;
+    height: 300px;
+}
+.sec{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+}
+.boxes{
+    height: 300px;
+    display: flex;
+}
+.btn1{
+    border: none;
+}

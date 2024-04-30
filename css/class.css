@@ -1,0 +1,50 @@
+body{
+    margin: a;
+    align-items: center;
+    justify-content: center;
+}
+.twitter{
+    margin: auto;
+    background-color: blue;
+    width: 600px;
+    height: 400px;
+    margin-top: 100px;
+}
+#text{
+    width: 100%;
+    border: 2px solid black;
+}
+select{
+    margin-left: 250px;
+}
+
+#text2 {
+    margin-left: 560px
+    color: brown;
+    width: 100%;
+    height: 70px;
+}
+.btn1{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: rgb(4, 122, 122);
+    font-size: 15px;
+margin-right: 200px;
+    margin-left: 250px;
+}
+h1{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, 
+    Geneva, Verdana, sans-serif;
+color: white;
+}
+.first{
+    width: 100%;
+    height: 100px;
+}
+input{
+    margin-left: 210px;
+}
